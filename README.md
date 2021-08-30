@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sousa-Matos&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Matheus-Swift" height="30" width="40" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor">
   <img align="center" alt="Matheus-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
