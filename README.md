@@ -1,8 +1,4 @@
 ### Hello developer. I'm Matheus de Sousa Matos 
-
-- 🔭 I am currently working on IOS application development.
-- 🌱 I am currently learning the Swift language.
-
 <div>
   <a href="https://github.com/Matheus-Sousa-Matos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Sousa-Matos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
